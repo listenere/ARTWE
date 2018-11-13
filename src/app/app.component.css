@@ -58,6 +58,7 @@ header nav {
 	height: 30px;
 	min-width: 1000px;
 	position: relative;
+	margin-bottom: 10px;
 }
 header nav ul{
 	overflow: hidden;
